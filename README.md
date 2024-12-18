@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I am a PhD researcher at the University of Birmingham in the Engineering Department and am part of the Birmingham Centre for Railway Research and Education.
+
+## My Research
+I am researching system design for a superconducting MagLev urban transport system. Looking at bridging the gap between transport planners and technology engineers.
+
 <!--
 **cxd309/cxd309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
